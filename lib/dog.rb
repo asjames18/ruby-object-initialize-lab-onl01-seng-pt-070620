@@ -7,3 +7,5 @@ end
 
 name = Dog.new()
 breed = Dog.new("Mutt")
+
+name = Dog.new("Fido", "Pug")
