@@ -6,5 +6,5 @@ class Dog
 end
 
 name = Dog.new("Fido", "Pug")
-
+Fido.name
 breed = Dog.new("Fido", "Pug")
