@@ -5,6 +5,7 @@ class Dog
   end
   def breed(x = Mutt)
     return x + Mutt
+  end
 
   end
 end
