@@ -5,7 +5,6 @@ class Dog
   end
 end
 
-name = Dog.new()
-breed = Dog.new("Mutt")
-
 name = Dog.new("Fido", "Pug")
+
+breed = Dog.new("Fido", "Pug")
