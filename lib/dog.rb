@@ -4,6 +4,6 @@ class Dog
     @breed = breed
   end
   def breed=(breed)
-    puts "+ Mutts"
+    puts "+ breed"
   end
 end
